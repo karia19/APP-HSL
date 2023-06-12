@@ -17,7 +17,7 @@ To install and run the application locally, please follow these steps:
 
 1. Clone the GitHub repository:
    ```shell
-   git clone https://github.com/your-username/hsl-transit-map.git
+   git clone https://github.com/karia19/hsl-transit-map.git
    ```
 2. Navigate to the project directory:
    ```shell
@@ -35,7 +35,7 @@ To install and run the application locally, please follow these steps:
      NEXT_PUBLIC_HSL_API_KEY=<your HSL API key>
      ```
    - Replace `<your Mapbox access token>` with your own Mapbox access token. You can create a Mapbox account and obtain an access token [here](https://www.mapbox.com/).
-   - Replace `<your HSL API key>` with your own HSL API key. You can request an API key from the HSL Developer Portal.
+  
 5. Start the development server:
    ```shell
    npm run dev
