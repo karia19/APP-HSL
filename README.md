@@ -32,7 +32,6 @@ To install and run the application locally, please follow these steps:
    - Add the following environment variables to the file:
      ```
      NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN=<your Mapbox access token>
-     NEXT_PUBLIC_HSL_API_KEY=<your HSL API key>
      ```
    - Replace `<your Mapbox access token>` with your own Mapbox access token. You can create a Mapbox account and obtain an access token [here](https://www.mapbox.com/).
   
