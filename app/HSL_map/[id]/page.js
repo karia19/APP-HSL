@@ -118,7 +118,7 @@ export default async function vehiclePage({ params }) {
 
     return(
         <div>
-            <SearchVehicle />
+        
             <AllInMAp data={geodata} />
 
         </div>

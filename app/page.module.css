@@ -1,11 +1,20 @@
 .main {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
-  min-height: 100vh;
+  
+  /*
+  background-image: url('/wave.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-color: #002233;
+  */
 }
+
+
 .mapOverlay {
   z-index: 222;
   font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
